@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sariosa
 - 👀 I’m interested about Machine Learning & Data science
-- 🌱 I’m currently learning SQL and German 
+- 🌱 I’m currently learning SQL 
 
 
 <!---
